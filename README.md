@@ -26,7 +26,7 @@
 
 - 💬 I develop websites with **HTML, CSS, JavaScript, PHP, Git, SQL**
 
-- 📫 I will soon learn frameworks like **React.js and Node.js**
+- 📫 Very enthusiast of technology
 <!--Intro end-->
 
 
@@ -66,7 +66,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,cpp,mysql,py,tailwind,vscode,php,react,bash,nodejs,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,cpp,mysql,py,tailwind,vscode,php,react,bash,nodejs,vite,laravel&perline=14" />
   </a>
 </p>
 
