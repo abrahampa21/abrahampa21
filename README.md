@@ -16,15 +16,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently studying Programming Engineering
+- 🔭 I’m currently studying **Programming and Webmaster Engineering**
 
-- 🌱 I’m currently learning about **Frontend development**
+- 🌱 I’m currently learning about **Web development**
 
 - ☁️ I practice my skills to improve them everyday
 
-- 📝 I'm also learning about **Networking**
-
-- 💬 I develop websites with **HTML, CSS, JavaScript, PHP, Git, SQL**
+- 📝 I'm also learning about **Networking** and **Cybersecurity**
 
 - 📫 Very enthusiast of technology
 <!--Intro end-->
