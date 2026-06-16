@@ -22,8 +22,6 @@
 
 - ☁️ I practice my skills to improve them everyday
 
-- 📝 I'm also learning about **Networking** and **Cybersecurity**
-
 - 📫 Very enthusiast of technology
 <!--Intro end-->
 
